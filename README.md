@@ -1,2 +1,2 @@
-# FakeSHOP-React-Redux
-A shopping project based on learning REDUX TOOLKIT!
+# MovieRating: React-redux!
+A Movie rating project based on learning the REDUX TOOLKIT!
